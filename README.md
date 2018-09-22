@@ -1,4 +1,4 @@
-# AnyWall
+# AnyWall 2
 
 A fun geolocation app built with Parse.
 
